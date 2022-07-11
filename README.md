@@ -6,7 +6,7 @@ This is my repository for my HTML/CSS Style Guide.
 
 For this project, we use the Google HTML/CSS Style Guide:
 
-[Google HTML/CSS Style Guide] (https://google.github.io/styleguide/htmlcssguide.html)
+[Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 
 ### Template Features
 
